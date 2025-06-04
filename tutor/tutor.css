@@ -1,0 +1,15 @@
+h1 {
+    margin: auto;
+}
+
+.banner {
+    font-size: xx-large;
+    font-family: "proxima-nova";
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.lh-condensed {
+    line-height: 1.2;
+}
