@@ -21,8 +21,10 @@ h1 {
 }
 
 .blurb {
-    padding: 20%;
+    font-size: large;
+    margin: auto;
     padding-top: 0%;
     text-justify: center;
     text-align: center;
+    width: 50%;
 }
